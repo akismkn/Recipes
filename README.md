@@ -1,0 +1,1 @@
+Just a simple website with food recipes.
