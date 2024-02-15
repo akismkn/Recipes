@@ -1,3 +1,3 @@
 Just a simple website with food recipes.
 
-Live Demo : akismkn.github.io/Recipes/
+Live Demo : https://akismkn.github.io/Recipes/
